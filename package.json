@@ -2,8 +2,7 @@
   "name": "git",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "repository": "https://github.com/23Anderson/estudos.git",
+  "author": "Anderson <andersonono92@hotmail.com>",
+  "license": "MIT"
 }
